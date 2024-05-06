@@ -1,4 +1,4 @@
-![](logo.jpeg){width="3222"}
+![](logo.jpeg)
 
 # Pre-procesamiento
 
